@@ -1,0 +1,17 @@
+<svg width="31" height="30" viewBox="0 0 31 30" fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <path d="M5.5 5C5.5 2.79086 7.29086 1 9.5 1H25.5C27.7091 1 29.5 2.79086 29.5 5V14.6991C29.5 16.5221 28.0221 18 26.1991 18C25.1392 18 24.1437 17.491 23.5231 16.6317L22.3641 15.0269C19.9691 11.7108 15.0309 11.7108 12.6359 15.0269L11.4769 16.6317L12.2876 17.2172L11.4769 16.6317C10.8563 17.491 9.86083 18 8.8009 18C6.97786 18 5.5 16.5221 5.5 14.6991V5Z" fill="white" stroke="#2D2B2E" stroke-width="2"/>
+  <path d="M0.5 16C0.5 13.2386 2.73858 11 5.5 11H21.5C24.2614 11 26.5 13.2386 26.5 16V25.6991C26.5 28.0744 24.5744 30 22.1991 30C20.8181 30 19.521 29.3368 18.7124 28.2172L17.5534 26.6124C15.5576 23.849 11.4424 23.849 9.4466 26.6124L8.28755 28.2172C7.47897 29.3368 6.18194 30 4.8009 30C2.42558 30 0.5 28.0744 0.5 25.6991V16Z" fill="#C80009"/>
+  <line x1="11.5" y1="9" x2="11.5" y2="5" stroke="#1F9C81" stroke-width="2" stroke-linecap="round"/>
+  <line x1="7.5" y1="21" x2="7.5" y2="17" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <line x1="13.5" y1="7" x2="9.5" y2="7" stroke="#1F9C81" stroke-width="2" stroke-linecap="round"/>
+  <line x1="9.5" y1="19" x2="5.5" y2="19" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="21.5" cy="19" r="1" fill="white"/>
+  <circle cx="21.5" cy="7" r="1" fill="#1F9C81"/>
+  <circle cx="25.5" cy="7" r="1" fill="#1F9C81"/>
+  <circle cx="17.5" cy="19" r="1" fill="white"/>
+  <circle cx="23.5" cy="5" r="1" fill="#1F9C81"/>
+  <circle cx="19.5" cy="17" r="1" fill="white"/>
+  <circle cx="23.5" cy="9" r="1" fill="#1F9C81"/>
+  <circle cx="19.5" cy="21" r="1" fill="white"/>
+</svg>
