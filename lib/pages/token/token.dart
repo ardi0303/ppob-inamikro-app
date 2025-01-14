@@ -79,13 +79,13 @@ class _TokenPageState extends State<TokenPage> {
                   );
                 } else {
                   ScaffoldMessenger.of(context).showSnackBar(
-                    SnackBar(content: Text('Nomor telepon tidak ditemukan')),
+                    SnackBar(content: Text('Nomor meteran tidak ditemukan')),
                   );
                 }
               } else {
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(
-                      content: Text('Pilih pulsa dan masukkan nomor telepon')),
+                      content: Text('Pilih pulsa dan masukkan nomor meteran')),
                 );
               }
             },
